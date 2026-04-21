@@ -188,7 +188,7 @@ function Projects() {
               </div>
             </div>
             <a
-              href="https://islam-mahmoud-abd-alhy.github.io/Weekend/Main.html"
+              href="https://portfolio1-lake-phi.vercel.app/"
               target="_blank"
             >
               <button className="bg-green-800/70 p-2 w-50 text-center rounded-2xl font-mono font-bold group-hover:bg-green-500/70 transition-all cursor-pointer">
